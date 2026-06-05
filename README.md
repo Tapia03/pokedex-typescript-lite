@@ -238,7 +238,7 @@ Gerencia o catálogo com atributo `private pokemons: PokemonResumo[]` e métodos
 | — | — | — | Criar utils/textFormatters |
 | — | — | — | Atualizar README |
 
-**Link do Kanban:** _([cole aqui o link do seu Trello/Notion/GitHub Projects](https://trello.com/invite/b/6a22d809bffcd73fb1a7123c/ATTIac87998cf1676bacd1c75b9b28f93abb946AEA1A/pokedex-typescript-lite-rodrigo-tapia))_
+**Link do Kanban:** _([pokedex-typescript-lite-rodrigo-tapia](https://trello.com/invite/b/6a22d809bffcd73fb1a7123c/ATTIac87998cf1676bacd1c75b9b28f93abb946AEA1A/pokedex-typescript-lite-rodrigo-tapia))_
 
 ## Branches utilizadas
 
