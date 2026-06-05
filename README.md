@@ -35,7 +35,7 @@ Praticar os principais conceitos do Módulo 01:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/pokedex-typescript-lite.git
+git clone https://github.com/Tapia03/pokedex-typescript-lite.git
 ```
 
 Acesse a pasta do projeto:
